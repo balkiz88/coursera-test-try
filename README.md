@@ -1,2 +1,2 @@
-# coursera-test-try-
+# coursera-test-try
 Coursera test repository
